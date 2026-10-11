@@ -1,0 +1,14 @@
+# Credentials: never commit
+kaggle.json
+
+# Dataset (downloaded by the notebook)
+ravdess_data/
+*.zip
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS
+.DS_Store
